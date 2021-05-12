@@ -1,0 +1,39 @@
+/**
+Theme Name: Neve Child
+Author: Aniket Desale
+Author URI: http://abc.com
+Description: Child theme
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: neve-child
+Template: neve
+*/
+
+.client-logo-section{
+	background-color: #deefff;
+}
+
+.company-logo{
+	padding: 0 150px;
+}
+
+.section-testimonial {
+	background-color: aliceblue;
+}
+
+.section-five {
+	padding-bottom: 30px;
+}
+
+.footer-top-inner {
+	background: linear-gradient(#e66465, #9198e5);
+}
+
+.hfg_header .header-main-inner {
+	background: linear-gradient(#e66465, #9198e5);
+}
+
+.footer-bottom-inner {
+	background-color: #9198e5;
+}
